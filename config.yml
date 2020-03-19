@@ -1,0 +1,14 @@
+prefix: 'tmp' 
+prob_name: 'sch'
+n_obj: 2
+n_var: 1
+xl: -100
+xu: 100
+n_part: 19
+n_eval: 10000
+n_neb: 4
+sigma: 0.9
+nr: 2
+alpha: 1.e-05
+beta: 0.3
+etam: 20
