@@ -20,6 +20,8 @@ The following python libraries are required.
 
     Or use bash script in ```test.sh```
 
+3. Result is saved as ```.csv``` files in ```./tmp``` folder by default.
+
 ## MOEA/D
 
 An algorithm to solve multi-objective optimization problems (MOOPs). It decomposes the MOOP into several single-objective task and solve them together.
